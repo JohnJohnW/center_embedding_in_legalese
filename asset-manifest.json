@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/center_embedding_in_legalese/static/css/main.ca5d3c36.css",
+    "main.js": "/center_embedding_in_legalese/static/js/main.2af03f68.js",
+    "index.html": "/center_embedding_in_legalese/index.html",
+    "main.ca5d3c36.css.map": "/center_embedding_in_legalese/static/css/main.ca5d3c36.css.map",
+    "main.2af03f68.js.map": "/center_embedding_in_legalese/static/js/main.2af03f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5d3c36.css",
+    "static/js/main.2af03f68.js"
+  ]
+}
